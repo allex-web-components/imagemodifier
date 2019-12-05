@@ -1,0 +1,14 @@
+{
+  "browserify": {
+    "dist/browserified.js": "index.js"
+  },
+  "dependencies": {
+    "css": [
+      "node_modules/cropperjs/dist/cropper.css"
+    ],
+    "js": [
+      "node_modules/cropperjs/dist/cropper.js",
+      "allex:jqueryelements:lib"
+    ]
+  }
+}

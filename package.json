@@ -1,0 +1,26 @@
+{
+  "name": "allex_imagemodifierwebcomponent",
+  "version": "1.0.0",
+  "description": "AllexJS web component that implements the cropperjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-web-components/imagemodifier.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "image",
+    "modifier",
+    "web",
+    "component"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-web-components/imagemodifier/issues"
+  },
+  "homepage": "https://github.com/allex-web-components/imagemodifier#readme"
+}
