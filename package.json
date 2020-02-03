@@ -1,6 +1,6 @@
 {
   "name": "allex_imagemodifierwebcomponent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AllexJS web component that implements the cropperjs",
   "main": "index.js",
   "scripts": {
